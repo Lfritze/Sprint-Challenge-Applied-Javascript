@@ -29,7 +29,6 @@ axios
 function CreateCardFunction(item) {
     //DEFINE  .createElement()
     // indented to display parent/child flow
-   
     const cardDiv = document.createElement('div');
         const headline = document.createElement('div');
             const author = document.createElement('div');
