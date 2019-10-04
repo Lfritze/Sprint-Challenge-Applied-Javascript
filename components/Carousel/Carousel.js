@@ -17,3 +17,17 @@
     <div class="right-button"> > </div>
   </div>
 */
+
+// function CarouselThing(pictures) {
+//   //DEFINE
+//   const carousel = document.createElement('div');
+//     const leftButton = document.createElement('div');
+//     // loop 
+//     pictures.forEach(picSrc => {
+//     const image = document.createElement('img')
+//     image.setAttribute('src', picSrc)
+//   })
+//   //CLASS
+//   //CONTENT
+//   //STRUCTURE
+// }
