@@ -19,7 +19,6 @@ axios
             articleData[programmaticIndex].forEach((element) => {
                 console.log(element);
                 cardsContainer.appendChild(CreateCardFunction(element))
-
             })
         }
     })
